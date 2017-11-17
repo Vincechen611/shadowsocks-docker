@@ -1,5 +1,3 @@
-
-====================
 docker image to run a shadowsocks server
 
 Setting a specific configration
